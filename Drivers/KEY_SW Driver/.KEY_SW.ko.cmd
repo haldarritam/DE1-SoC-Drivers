@@ -1,0 +1,1 @@
+cmd_/home/fetam/assignments/assign-3/part-2/KEY_SW.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/fetam/assignments/assign-3/part-2/KEY_SW.ko /home/fetam/assignments/assign-3/part-2/KEY_SW.o /home/fetam/assignments/assign-3/part-2/KEY_SW.mod.o
