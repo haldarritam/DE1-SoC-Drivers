@@ -1,0 +1,13 @@
+#define RED                   0xF000
+#define GREEN                 0x0F00
+#define BLUE                  0x00FF
+#define PINK                  0xF00F
+#define YELLOW                0xFF00
+#define LIGHT_BLUE            0x0FFF
+#define PURPLE                0x90FF
+#define DISGUSTING_GREEN      0x7777
+#define BROWN                 0xB301
+#define ORANGE                0xF501
+#define WEIRDO                0xAAAA
+#define GREY                  0x8410
+#define WHITE                 0xFFFF
