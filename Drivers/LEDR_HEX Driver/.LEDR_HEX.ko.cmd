@@ -1,1 +1,0 @@
-cmd_/home/fetam/assignments/assign-3/part-3/LEDR_HEX.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/fetam/assignments/assign-3/part-3/LEDR_HEX.ko /home/fetam/assignments/assign-3/part-3/LEDR_HEX.o /home/fetam/assignments/assign-3/part-3/LEDR_HEX.mod.o

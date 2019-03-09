@@ -1,1 +1,0 @@
-cmd_/home/fetam/assignments/assign-4/part-2/stopwatch.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/fetam/assignments/assign-4/part-2/stopwatch.ko /home/fetam/assignments/assign-4/part-2/stopwatch.o /home/fetam/assignments/assign-4/part-2/stopwatch.mod.o

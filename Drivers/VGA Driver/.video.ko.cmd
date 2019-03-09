@@ -1,1 +1,0 @@
-cmd_/home/fetam/assignments/assign-6/part-6/video.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/fetam/assignments/assign-6/part-6/video.ko /home/fetam/assignments/assign-6/part-6/video.o /home/fetam/assignments/assign-6/part-6/video.mod.o
